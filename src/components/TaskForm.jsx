@@ -19,7 +19,7 @@ function TaskForm() {
       onSubmit={handleSubmit}
     >
       <h1 className="font-extrabold text-4xl pt-7 pb-3">
-        Añade Tus Lenjuagues
+        Añade Tus lenguages
       </h1>
       <h1 className="font-extrabold text-4xl pb-3">De Programacion</h1>
       <input
